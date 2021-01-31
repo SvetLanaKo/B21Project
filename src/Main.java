@@ -5,5 +5,6 @@ public class Main {
         //everyone is happy with practicing
         //I have published on GitHub, should i publish again?
         //absolutely NO, you need just to push
+        //when it was published once, what you need you need to push when you have changes
     }
 }
